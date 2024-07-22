@@ -1,0 +1,300 @@
+﻿Red,2449,Blue,3089,Blue,-25,25
+Red,2449,Misty,1545,Red,25,-25
+Blue,3089,Misty,1545,Blue,25,-25
+Red,2449,Brock,1180,Red,25,-25
+Blue,3089,Brock,1180,Blue,25,-25
+Misty,1545,Brock,1180,Misty,25,-25
+Red,2449,Lt. Surge,1885,Red,25,-25
+Blue,3089,Lt. Surge,1885,Blue,25,-25
+Misty,1545,Lt. Surge,1885,Lt. Surge,-25,25
+Brock,1180,Lt. Surge,1885,Lt. Surge,-25,-25
+Red,2449,Erika,1415,Red,25,-25
+Blue,3089,Erika,1415,Blue,25,-25
+Misty,1545,Erika,1415,Misty,25,-25
+Brock,1180,Erika,1415,Erika,-25,25
+Lt. Surge,1885,Erika,1415,Lt. Surge,25,-25
+Red,2449,Koga,1785,Red,25,-25
+Blue,3089,Koga,1785,Blue,25,-25
+Misty,1545,Koga,1785,Misty,-25,25
+Brock,1180,Koga,1785,Koga,-25,25
+Lt. Surge,1885,Koga,1785,Lt. Surge,25,-25
+Erika,1415,Koga,1785,Koga,-25,25
+Red,2449,Sabrina,1810,Red,25,-25
+Blue,3089,Sabrina,1810,Blue,25,-25
+Misty,1545,Sabrina,1810,Sabrina,-25,25
+Brock,1180,Sabrina,1810,Sabrina,-25,25
+Lt. Surge,1885,Sabrina,1810,Lt. Surge,25,-25
+Erika,1415,Sabrina,1810,Sabrina,-25,-25
+Koga,1785,Sabrina,1810,Koga,-25,25
+Red,2449,Blaine,2395,Red,25,-25
+Blue,3089,Blaine,2395,Blue,25,-25
+Misty,1545,Blaine,2395,Blaine,-25,25
+Brock,1180,Blaine,2395,Blaine,-25,25
+Lt. Surge,1885,Blaine,2395,Blaine,-25,25
+Erika,1415,Blaine,2395,Blaine,-25,25
+Koga,1785,Blaine,2395,Blaine,-25,25
+Sabrina,1810,Blaine,2395,Blaine,-25,25
+Red,2449,Giovanni,2945,Giovanni,-25,25
+Blue,3089,Giovanni,2945,Blue,25,-25
+Misty,1545,Giovanni,2945,Giovanni,-25,25
+Brock,1180,Giovanni,2945,Giovanni,-25,25
+Lt. Surge,1885,Giovanni,2945,Giovanni,-25,25
+Erika,1415,Giovanni,2945,Giovanni,-25,25
+Koga,1785,Giovanni,2945,Giovanni,-25,25
+Sabrina,1810,Giovanni,2945,Giovanni,-25,25
+Blaine,2395,Giovanni,2945,Giovanni,-25,25
+Red,2449,Lorelei,2570,Red,-25,25
+Blue,3089,Lorelei,2570,Blue,25,-25
+Misty,1545,Lorelei,2570,Lorelei,-25,25
+Brock,1180,Lorelei,2570,Lorelei,-25,25
+Lt. Surge,1885,Lorelei,2570,Lorelei,-25,25
+Erika,1415,Lorelei,2570,Lorelei,-25,25
+Koga,1785,Lorelei,2570,Lorelei,-25,25
+Sabrina,1810,Lorelei,2570,Lorelei,-25,25
+Blaine,2395,Lorelei,2570,Lorelei,-25,25
+Giovanni,2945,Lorelei,2570,Giovanni,25,-25
+Red,2449,Bruno,1800,Red,25,-25
+Blue,3089,Bruno,1800,Blue,25,-25
+Misty,1545,Bruno,1800,Bruno,-25,25
+Brock,1180,Bruno,1800,Bruno,-25,25
+Lt. Surge,1885,Bruno,1800,Lt. Surge,25,-25
+Erika,1415,Bruno,1800,Bruno,-25,25
+Koga,1785,Bruno,1800,Koga,25,-25
+Sabrina,1810,Bruno,1800,Sabrina,25,-25
+Blaine,2395,Bruno,1800,Blaine,25,-25
+Giovanni,2945,Bruno,1800,Giovanni,25,-25
+Lorelei,2570,Bruno,1800,Lorelei,25,-25
+Red,2449,Agatha,1808,Red,25,-25
+Blue,3089,Agatha,1808,Blue,25,-25
+Misty,1545,Agatha,1808,Agatha,-25,25
+Brock,1180,Agatha,1808,Agatha,-25,25
+Lt. Surge,1885,Agatha,1808,Lt. Surge,25,-25
+Erika,1415,Agatha,1808,Agatha,25,25
+Koga,1785,Agatha,1808,Koga,25,25
+Sabrina,1810,Agatha,1808,Sabrina,25,-25
+Blaine,2395,Agatha,1808,Blaine,25,-25
+Giovanni,2945,Agatha,1808,Giovanni,25,-25
+Lorelei,2570,Agatha,1808,Lorelei,25,-25
+Bruno,1800,Agatha,1808,Agatha,25,25
+Red,2449,Lance,2609,Red,25,25
+Blue,3089,Lance,2609,Blue,25,-25
+Misty,1545,Lance,2609,Lance,-25,25
+Brock,1180,Lance,2609,Lance,-25,25
+Lt. Surge,1885,Lance,2609,Lance,-25,25
+Erika,1415,Lance,2609,Lance,-25,25
+Koga,1785,Lance,2609,Lance,-25,25
+Sabrina,1810,Lance,2609,Lance,-25,25
+Blaine,2395,Lance,2609,Blaine,-25,-25
+Giovanni,2945,Lance,2609,Giovanni,25,-25
+Lorelei,2570,Lance,2609,Lorelei,-25,25
+Bruno,1800,Lance,2609,Lance,-25,25
+Agatha,1808,Lance,2609,Lance,-25,25
+Red,2449,Ash Ketchum,1783,Red,25,-25
+Blue,3089,Ash Ketchum,1783,Blue,25,-25
+Misty,1545,Ash Ketchum,1783,Ash Ketchum,-25,-25
+Brock,1180,Ash Ketchum,1783,Ash Ketchum,-25,25
+Lt. Surge,1885,Ash Ketchum,1783,Lt. Surge,25,-25
+Erika,1415,Ash Ketchum,1783,Ash Ketchum,-25,25
+Koga,1785,Ash Ketchum,1783,Koga,25,-25
+Sabrina,1810,Ash Ketchum,1783,Sabrina,25,-25
+Blaine,2395,Ash Ketchum,1783,Blaine,25,-25
+Giovanni,2945,Ash Ketchum,1783,Giovanni,25,-25
+Lorelei,2570,Ash Ketchum,1783,Lorelei,25,-25
+Bruno,1800,Ash Ketchum,1783,Bruno,25,-25
+Agatha,1808,Ash Ketchum,1783,Agatha,25,-25
+Lance,2609,Ash Ketchum,1783,Lance,25,-25
+Red,2449,Gary Oak,2455,Gary Oak,-25,25
+Blue,3089,Gary Oak,2455,Blue,25,-25
+Misty,1545,Gary Oak,2455,Gary Oak,-25,25
+Brock,1180,Gary Oak,2455,Gary Oak,-25,25
+Lt. Surge,1885,Gary Oak,2455,Gary Oak,-25,25
+Erika,1415,Gary Oak,2455,Gary Oak,-25,25
+Koga,1785,Gary Oak,2455,Gary Oak,-25,25
+Sabrina,1810,Gary Oak,2455,Gary Oak,-25,25
+Blaine,2395,Gary Oak,2455,Gary Oak,25,25
+Giovanni,2945,Gary Oak,2455,Giovanni,25,-25
+Lorelei,2570,Gary Oak,2455,Lorelei,25,-25
+Bruno,1800,Gary Oak,2455,Gary Oak,-25,25
+Agatha,1808,Gary Oak,2455,Gary Oak,-25,25
+Lance,2609,Gary Oak,2455,Lance,25,-25
+Ash Ketchum,1783,Gary Oak,2455,Gary Oak,-25,25
+Red,2449,Leaf,2454,Leaf,25,-25
+Blue,3089,Leaf,2454,Blue,25,-25
+Misty,1545,Leaf,2454,Leaf,-25,25
+Brock,1180,Leaf,2454,Leaf,-25,25
+Lt. Surge,1885,Leaf,2454,Leaf,-25,25
+Erika,1415,Leaf,2454,Leaf,-25,25
+Koga,1785,Leaf,2454,Leaf,-25,25
+Sabrina,1810,Leaf,2454,Leaf,-25,25
+Blaine,2395,Leaf,2454,Blaine,25,25
+Giovanni,2945,Leaf,2454,Giovanni,25,-25
+Lorelei,2570,Leaf,2454,Lorelei,25,-25
+Bruno,1800,Leaf,2454,Leaf,-25,-25
+Agatha,1808,Leaf,2454,Leaf,-25,25
+Lance,2609,Leaf,2454,Lance,25,-25
+Ash Ketchum,1783,Leaf,2454,Leaf,-25,25
+Gary Oak,2455,Leaf,2454,Gary Oak,25,-25
+Red,2449,Jessie,1228,Red,25,-25
+Blue,3089,Jessie,1228,Blue,25,-25
+Misty,1545,Jessie,1228,Misty,25,-25
+Brock,1180,Jessie,1228,Brock,-25,25
+Lt. Surge,1885,Jessie,1228,Lt. Surge,25,-25
+Erika,1415,Jessie,1228,Erika,25,-25
+Koga,1785,Jessie,1228,Koga,25,-25
+Sabrina,1810,Jessie,1228,Sabrina,25,-25
+Blaine,2395,Jessie,1228,Blaine,25,-25
+Giovanni,2945,Jessie,1228,Giovanni,25,-25
+Lorelei,2570,Jessie,1228,Lorelei,25,-25
+Bruno,1800,Jessie,1228,Bruno,25,-25
+Agatha,1808,Jessie,1228,Agatha,25,-25
+Lance,2609,Jessie,1228,Lance,25,-25
+Ash Ketchum,1783,Jessie,1228,Ash Ketchum,25,-25
+Gary Oak,2455,Jessie,1228,Gary Oak,25,-25
+Leaf,2454,Jessie,1228,Leaf,25,-25
+Red,2449,James,1030,Red,25,-25
+Blue,3089,James,1030,Blue,25,-25
+Misty,1545,James,1030,Misty,25,-25
+Brock,1180,James,1030,Brock,25,-25
+Lt. Surge,1885,James,1030,Lt. Surge,25,-25
+Erika,1415,James,1030,Erika,25,-25
+Koga,1785,James,1030,Koga,25,-25
+Sabrina,1810,James,1030,Sabrina,25,-25
+Blaine,2395,James,1030,Blaine,25,-25
+Giovanni,2945,James,1030,Giovanni,25,-25
+Lorelei,2570,James,1030,Lorelei,25,-25
+Bruno,1800,James,1030,Bruno,25,-25
+Agatha,1808,James,1030,Agatha,25,-25
+Lance,2609,James,1030,Lance,25,-25
+Ash Ketchum,1783,James,1030,Ash Ketchum,25,-25
+Gary Oak,2455,James,1030,Gary Oak,25,-25
+Leaf,2454,James,1030,Leaf,25,-25
+Jessie,1228,James,1030,Jessie,25,-25
+Red,2449,Green,2580,Green,-25,25
+Blue,3089,Green,2580,Blue,25,-25
+Misty,1545,Green,2580,Green,-25,25
+Brock,1180,Green,2580,Green,-25,25
+Lt. Surge,1885,Green,2580,Green,25,25
+Erika,1415,Green,2580,Green,-25,25
+Koga,1785,Green,2580,Green,-25,25
+Sabrina,1810,Green,2580,Green,-25,25
+Blaine,2395,Green,2580,Green,-25,25
+Giovanni,2945,Green,2580,Giovanni,25,-25
+Lorelei,2570,Green,2580,Green,25,25
+Bruno,1800,Green,2580,Green,-25,25
+Agatha,1808,Green,2580,Green,-25,25
+Lance,2609,Green,2580,Lance,25,-25
+Ash Ketchum,1783,Green,2580,Green,-25,25
+Gary Oak,2455,Green,2580,Gary Oak,-25,25
+Leaf,2454,Green,2580,Green,-25,-25
+Jessie,1228,Green,2580,Green,-25,25
+James,1030,Green,2580,Green,-25,25
+Red,2449,Professor Oak,941,Red,25,-25
+Blue,3089,Professor Oak,941,Blue,25,-25
+Misty,1545,Professor Oak,941,Misty,25,-25
+Brock,1180,Professor Oak,941,Brock,25,-25
+Lt. Surge,1885,Professor Oak,941,Lt. Surge,25,-25
+Erika,1415,Professor Oak,941,Erika,25,-25
+Koga,1785,Professor Oak,941,Koga,25,-25
+Sabrina,1810,Professor Oak,941,Sabrina,25,-25
+Blaine,2395,Professor Oak,941,Blaine,25,-25
+Giovanni,2945,Professor Oak,941,Giovanni,25,-25
+Lorelei,2570,Professor Oak,941,Lorelei,25,-25
+Bruno,1800,Professor Oak,941,Bruno,25,-25
+Agatha,1808,Professor Oak,941,Agatha,25,-25
+Lance,2609,Professor Oak,941,Lance,25,-25
+Ash Ketchum,1783,Professor Oak,941,Ash Ketchum,25,-25
+Gary Oak,2455,Professor Oak,941,Gary Oak,25,-25
+Leaf,2454,Professor Oak,941,Leaf,25,-25
+Jessie,1228,Professor Oak,941,Jessie,25,-25
+James,1030,Professor Oak,941,James,25,-25
+Green,2580,Professor Oak,941,Green,25,-25
+Red,2449,Daisy Oak,648,Red,25,-25
+Blue,3089,Daisy Oak,648,Blue,25,-25
+Misty,1545,Daisy Oak,648,Misty,25,-25
+Brock,1180,Daisy Oak,648,Brock,25,-25
+Lt. Surge,1885,Daisy Oak,648,Lt. Surge,25,-25
+Erika,1415,Daisy Oak,648,Erika,25,-25
+Koga,1785,Daisy Oak,648,Koga,25,-25
+Sabrina,1810,Daisy Oak,648,Sabrina,25,-25
+Blaine,2395,Daisy Oak,648,Blaine,25,-25
+Giovanni,2945,Daisy Oak,648,Giovanni,25,-25
+Lorelei,2570,Daisy Oak,648,Lorelei,25,-25
+Bruno,1800,Daisy Oak,648,Bruno,25,-25
+Agatha,1808,Daisy Oak,648,Agatha,25,-25
+Lance,2609,Daisy Oak,648,Lance,25,-25
+Ash Ketchum,1783,Daisy Oak,648,Ash Ketchum,25,-25
+Gary Oak,2455,Daisy Oak,648,Gary Oak,25,-25
+Leaf,2454,Daisy Oak,648,Leaf,25,-25
+Jessie,1228,Daisy Oak,648,Jessie,25,-25
+James,1030,Daisy Oak,648,James,25,-25
+Green,2580,Daisy Oak,648,Green,25,-25
+Professor Oak,941,Daisy Oak,648,Professor Oak,25,-25
+Red,2449,Tracey Sketchit,1117,Red,25,-25
+Blue,3089,Tracey Sketchit,1117,Blue,25,-25
+Misty,1545,Tracey Sketchit,1117,Misty,25,-25
+Brock,1180,Tracey Sketchit,1117,Brock,25,-25
+Lt. Surge,1885,Tracey Sketchit,1117,Lt. Surge,25,-25
+Erika,1415,Tracey Sketchit,1117,Erika,25,-25
+Koga,1785,Tracey Sketchit,1117,Koga,25,-25
+Sabrina,1810,Tracey Sketchit,1117,Sabrina,25,-25
+Blaine,2395,Tracey Sketchit,1117,Blaine,25,-25
+Giovanni,2945,Tracey Sketchit,1117,Giovanni,25,-25
+Lorelei,2570,Tracey Sketchit,1117,Lorelei,25,-25
+Bruno,1800,Tracey Sketchit,1117,Bruno,25,-25
+Agatha,1808,Tracey Sketchit,1117,Agatha,25,-25
+Lance,2609,Tracey Sketchit,1117,Lance,25,-25
+Ash Ketchum,1783,Tracey Sketchit,1117,Ash Ketchum,25,-25
+Gary Oak,2455,Tracey Sketchit,1117,Gary Oak,25,-25
+Leaf,2454,Tracey Sketchit,1117,Leaf,25,-25
+Jessie,1228,Tracey Sketchit,1117,Jessie,25,-25
+James,1030,Tracey Sketchit,1117,James,25,-25
+Green,2580,Tracey Sketchit,1117,Green,25,-25
+Professor Oak,941,Tracey Sketchit,1117,Tracey Sketchit,-25,25
+Daisy Oak,648,Tracey Sketchit,1117,Tracey Sketchit,-25,25
+Red,2449,Bill,720,Red,25,-25
+Blue,3089,Bill,720,Blue,25,-25
+Misty,1545,Bill,720,Misty,25,-25
+Brock,1180,Bill,720,Brock,25,-25
+Lt. Surge,1885,Bill,720,Lt. Surge,25,-25
+Erika,1415,Bill,720,Erika,25,-25
+Koga,1785,Bill,720,Koga,25,-25
+Sabrina,1810,Bill,720,Sabrina,25,-25
+Blaine,2395,Bill,720,Blaine,25,-25
+Giovanni,2945,Bill,720,Giovanni,25,-25
+Lorelei,2570,Bill,720,Lorelei,25,-25
+Bruno,1800,Bill,720,Bruno,25,-25
+Agatha,1808,Bill,720,Agatha,25,-25
+Lance,2609,Bill,720,Lance,25,-25
+Ash Ketchum,1783,Bill,720,Ash Ketchum,25,-25
+Gary Oak,2455,Bill,720,Gary Oak,25,-25
+Leaf,2454,Bill,720,Leaf,25,-25
+Jessie,1228,Bill,720,Jessie,25,-25
+James,1030,Bill,720,James,25,-25
+Green,2580,Bill,720,Green,25,-25
+Professor Oak,941,Bill,720,Professor Oak,25,-25
+Daisy Oak,648,Bill,720,Daisy Oak,-25,25
+Tracey Sketchit,1117,Bill,720,Tracey Sketchit,25,-25
+Red,2449,Mr. Fuji,1345,Red,25,-25
+Blue,3089,Mr. Fuji,1345,Blue,25,-25
+Misty,1545,Mr. Fuji,1345,Misty,25,-25
+Brock,1180,Mr. Fuji,1345,Mr. Fuji,-25,25
+Lt. Surge,1885,Mr. Fuji,1345,Lt. Surge,25,-25
+Erika,1415,Mr. Fuji,1345,Erika,25,-25
+Koga,1785,Mr. Fuji,1345,Koga,25,-25
+Sabrina,1810,Mr. Fuji,1345,Sabrina,25,-25
+Blaine,2395,Mr. Fuji,1345,Blaine,25,-25
+Giovanni,2945,Mr. Fuji,1345,Giovanni,25,-25
+Lorelei,2570,Mr. Fuji,1345,Lorelei,25,-25
+Bruno,1800,Mr. Fuji,1345,Bruno,25,-25
+Agatha,1808,Mr. Fuji,1345,Agatha,25,-25
+Lance,2609,Mr. Fuji,1345,Lance,25,-25
+Ash Ketchum,1783,Mr. Fuji,1345,Ash Ketchum,25,-25
+Gary Oak,2455,Mr. Fuji,1345,Gary Oak,25,-25
+Leaf,2454,Mr. Fuji,1345,Leaf,25,-25
+Jessie,1228,Mr. Fuji,1345,Mr. Fuji,-25,25
+James,1030,Mr. Fuji,1345,Mr. Fuji,-25,25
+Green,2580,Mr. Fuji,1345,Green,25,-25
+Professor Oak,941,Mr. Fuji,1345,Mr. Fuji,-25,25
+Daisy Oak,648,Mr. Fuji,1345,Mr. Fuji,-25,25
+Tracey Sketchit,1117,Mr. Fuji,1345,Mr. Fuji,-25,25
+Bill,720,Mr. Fuji,1345,Mr. Fuji,-25,25
